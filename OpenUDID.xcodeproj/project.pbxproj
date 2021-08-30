@@ -10,7 +10,7 @@
 		361E51B426DCAB93007D9DFA /* OpenUDID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 361E51AA26DCAB93007D9DFA /* OpenUDID.framework */; };
 		361E51B926DCAB93007D9DFA /* OpenUDIDTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 361E51B826DCAB93007D9DFA /* OpenUDIDTests.m */; };
 		361E51CC26DCAC0F007D9DFA /* OpenUDID.m in Sources */ = {isa = PBXBuildFile; fileRef = 361E51CA26DCAC0F007D9DFA /* OpenUDID.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		361E51CD26DCAC0F007D9DFA /* OpenUDID.h in Headers */ = {isa = PBXBuildFile; fileRef = 361E51CB26DCAC0F007D9DFA /* OpenUDID.h */; };
+		361E51CD26DCAC0F007D9DFA /* OpenUDID.h in Headers */ = {isa = PBXBuildFile; fileRef = 361E51CB26DCAC0F007D9DFA /* OpenUDID.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
