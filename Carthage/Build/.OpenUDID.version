@@ -8,19 +8,19 @@
   "tvOS" : [
 
   ],
-  "commitish" : "1.0.1",
+  "commitish" : "1.0.3",
   "iOS" : [
     {
-      "hash" : "d9c451af7d938cbc6ccbfe37ec899b35451667233e4342a30ea4c10a89a5d032",
+      "hash" : "0b1511c347388bff33941c8023163c70d48dc9b29e5b504a8e319065fe03b5fd",
       "name" : "OpenUDID",
       "container" : "OpenUDID.xcframework",
-      "identifier" : "ios-arm64"
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
     },
     {
-      "hash" : "75ae308a165015b2473f8d45c109364c831ba2b830b2f1766ca4c63e8b97891f",
+      "hash" : "8be304a5e7f14a31b32d5f6e002597abe4d3eae273bf8602bb0129a1fffaafdc",
       "name" : "OpenUDID",
       "container" : "OpenUDID.xcframework",
-      "identifier" : "ios-arm64_x86_64-simulator"
+      "identifier" : "ios-arm64_armv7"
     }
   ]
 }

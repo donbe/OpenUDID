@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/OpenUDID.h</key>
+		<data>
+		HV26b6m/zO9t0Zhc+7TbKFgYNG8=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		CmpPJn8rbPulVRDSdBAD1YX6dCk=
+		RDyrAx93BP/wGZBae/fYhtSZZSs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -15,8 +19,23 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/OpenUDID.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HV26b6m/zO9t0Zhc+7TbKFgYNG8=
+			</data>
+			<key>hash2</key>
+			<data>
+			QP1ZXDw/S0nKnSCqpCOmlFbioL+Bk3+GKRF9g0Cl3IU=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			e5miIXIH+qH1DatKRWJYq15sh/M=
+			</data>
 			<key>hash2</key>
 			<data>
 			goNca04Xd3zTMk26XnPTHbrkzhSpeS9YVNR7xJ2fUtg=
