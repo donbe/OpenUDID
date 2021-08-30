@@ -1,0 +1,26 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.0.1",
+  "iOS" : [
+    {
+      "hash" : "d9c451af7d938cbc6ccbfe37ec899b35451667233e4342a30ea4c10a89a5d032",
+      "name" : "OpenUDID",
+      "container" : "OpenUDID.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "hash" : "75ae308a165015b2473f8d45c109364c831ba2b830b2f1766ca4c63e8b97891f",
+      "name" : "OpenUDID",
+      "container" : "OpenUDID.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
